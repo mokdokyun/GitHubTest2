@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="안녕하세요. 깃허브 연동합니다.!"
+        android:text="안녕하세요. 깃허브 연동합니다.! \n 첫번째 커밋은 성공하였습니다. \n 두번째 커밋을 하겠습니다."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
